@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jleino\documents\visual studio 2015\projects\particleexplosion\particleexplosion\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jleino\documents\visual studio 2015\projects\particleexplosion\particleexplosion\main.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jleino\documents\visual studio 2015\projects\particleexplosion\particleexplosion\main.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Screen.cpp
+  Generating Code...
+  ParticleExplosion.vcxproj -> C:\Users\jleino\Documents\Visual Studio 2015\Projects\ParticleExplosion\Debug\ParticleExplosion.exe
+  ParticleExplosion.vcxproj -> C:\Users\jleino\Documents\Visual Studio 2015\Projects\ParticleExplosion\Debug\ParticleExplosion.pdb (Partial PDB)
